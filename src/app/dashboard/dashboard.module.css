@@ -1,0 +1,16 @@
+.dashboard {
+  padding: 24px;
+}
+
+.dashboard :global(.ant-card) {
+  height: 100%;
+}
+
+.dashboard :global(.ant-statistic-title) {
+  font-size: 16px;
+  margin-bottom: 16px;
+}
+
+.dashboard :global(.ant-statistic-content) {
+  font-size: 24px;
+} 

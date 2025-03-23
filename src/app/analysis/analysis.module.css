@@ -1,0 +1,17 @@
+.analysis {
+  padding: 24px;
+}
+
+.filter {
+  margin-bottom: 24px;
+  display: flex;
+  align-items: center;
+}
+
+.filter :global(.ant-select) {
+  margin-right: 16px;
+}
+
+.filter :global(.ant-picker) {
+  width: 300px;
+} 
