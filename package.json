@@ -2,7 +2,7 @@
   "name": "battery-test-system",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://[您的GitHub用户名].github.io/battery-test-system",
+  "homepage": "https://Xu-02.github.io/battery-test-system",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
